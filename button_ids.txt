@@ -1,0 +1,7 @@
+currentId=2
+btnComboNuggetsAction=2
+currentId=3
+btnCombo5Nuggets=3
+currentId=4
+btnAdicion10Nuggets=4
+currentId=5
